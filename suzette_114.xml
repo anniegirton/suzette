@@ -512,7 +512,7 @@
                   <pb type="page" n="400"/>
                   <head> 114. — Un cadeau. (Élève, p. 243.) </head>
               
-                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <name type="space" ana="#papa" n="m"><persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>. </p>
+                  <p> <time>Le surlendemain</time>, <time>à la fin du jour</time>, <name type="space" ana="#papa" n="m"><persName ana="#papa">M. Dumay</persName>, rentré des champs, les pieds dans de bons et spacieux sabots qu'il appelait ses pantoufles, regardait paternellement <persName ana="#suzette">Suzette</persName>.</name> </p>
                   <p> En robe claire et tablier à carreaux, elle vaquait au
             
                   <pb type="page" n="401"/>   
@@ -603,7 +603,6 @@
                   </div>
                </div>
             </div>
-         </div>
       </body>
   </text>
 </TEI>
