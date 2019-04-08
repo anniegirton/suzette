@@ -569,8 +569,8 @@
                      <div type="industrie">
                         <head type="sujets"> Industrie. </head> 
                         
-                        <!--<term> — LES FILTRES. </term> -->
-                        <ab type="question"> — Comment l'eau se purifie-t-elle naturellement ? — Où la puise-t-on souillée ou infectée ? — Avec quel appareil peut-on la rendre limpide et saine? — Propriétés du charbon et du sable. — Description d'un filtre. — Le papier Joseph. </ab>
+                        
+                        <ab type="question"> <!--<term> — LES FILTRES. </term> --> — Comment l'eau se purifie-t-elle naturellement ? — Où la puise-t-on souillée ou infectée ? — Avec quel appareil peut-on la rendre limpide et saine? — Propriétés du charbon et du sable. — Description d'un filtre. — Le papier Joseph. </ab>
                         
                         <ab type="answer"> Presque toujours les eaux se purifient naturellement ou traversant les couches de terre et de sable, mais quand la source est trop voisine de la surface, il n'en est plus ainsi, et il faut aviser à un moyen mécanique de la débarrasser de ses impuretés. On a imaginé à cet effet un appareil connu sous le nom de <term>filtre</term>. <lb/>
                         Un <seg corresp="#machinesAppareils">filtre</seg> est un appareil formé d'une caisse métallique dans laquelle on dispose alternativement des lits de charbon pulvérisé et de sable. En traversant ces matières, l'eau se débarrasse de ses impuretés et apparaît limpide à la sortie du robinet adapté à la partie inférieure. <lb/>
